@@ -1,0 +1,28 @@
+{
+  "name": "adonis-auth-builder",
+  "version": "1.0.1",
+  "description": "Painless authentication generator for your Adonis.js app available to you in one sexy command.",
+  "main": "index.js",
+  "dependencies": {
+    "adonis-fold": "^3.0.3",
+    "randomstring": "^1.1.5",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "@adonisjs/ace": "^6.0.0",
+    "@adonisjs/fold": "^6.0.3"
+  },
+  "scripts": {
+    "test": "echo Tests running..."
+  },
+  "keywords": [
+    "authentication",
+    "adonis",
+    "api",
+    "full-stack"
+  ],
+  "author": "Emmanuel Ogbiyoyo <nuel@nueljoe.com>",
+  "license": "GPL-3.0",
+  "repository": "https://github.com/ogbiyoyosky/adonis-auth-builder",
+  "private": false
+}
