@@ -1,6 +1,6 @@
 {
   "name": "adonis-auth-builder",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Painless authentication generator for your Adonis.js app available to you in one sexy command.",
   "main": "index.js",
   "dependencies": {
