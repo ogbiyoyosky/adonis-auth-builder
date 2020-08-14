@@ -120,8 +120,7 @@ adonis migration:run
 
 ## Author
 
-name Emmanuel Ogbiyoyo
-email nuel@nueljoe.com
+Emmanuel Ogbiyoyo <nuel@nueljoe.com>
 
 ## Contributing
 
