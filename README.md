@@ -1,6 +1,6 @@
-![Adonis Auth Scaffold Logo](https://i.ibb.co/V9CvcGV/adonis-auth-builder-Logo.png)
+![Adonis Auth Builder Logo](https://i.ibb.co/mJt9gh1/Whats-App-Image-2020-08-14-at-08-20-58.jpg)
 
-# Adonis Auth Scaffold.
+# Adonis Auth Builder.
 
 Adonis auth scaffold offers you painless authentication
 
@@ -37,7 +37,7 @@ start
     ├── apiAuthRoutes.js
 ```
 
-## About Adonis Auth Scaffold.
+## About Adonis Auth Builder.
 
 Adonis Auth Scaffold is a CLI utility that gives you a functional authentication system in Adonis.js
 within seconds.
@@ -118,10 +118,15 @@ Please remember to add the `status` column to your User migration.
 adonis migration:run
 ```
 
+## Author
+
+name Emmanuel Ogbiyoyo
+email nuel@nueljoe.com
+
 ## Contributing
 
 Contributions are welcome! Check out the [issues](https://github.com/ogbiyoyosky/adonis-auth-builder/issues) or the [PRs](https://github.com/ogbiyoyosky/adonis-auth-builder/pull-requests), and make your own if you want something that you don't see there.
 
 ## License
 
-[GPLv3.0](https://github.com/creatrixity/adonis-auth-builder)
+[GPLv3.0](https://github.com/ogbiyoyosky/adonis-auth-builder)
