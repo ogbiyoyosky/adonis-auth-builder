@@ -52,14 +52,14 @@ Install `adonis-auth-builder` by running the below command.
 
 ```bash
 npm install adonis-auth-builder --save-dev
-npm install @adonisjs/mail @adonisjs/persona @adonisjs/validator
+npm install @adonisjs/mail  @adonisjs/validator
 ```
 
 **Yarn**
 
 ```bash
 yarn add adonis-auth-builder --save-dev
-yarn add @adonisjs/mail @adonisjs/persona @adonisjs/validator
+yarn add @adonisjs/mail  @adonisjs/validator
 ```
 
 ### Register providers.
